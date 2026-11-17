@@ -1,0 +1,66 @@
+{
+  "imgsz": 640,
+  "types": [
+    {
+      "label": "Earring",
+      "product": "Earrings"
+    },
+    {
+      "label": "Finger ring",
+      "product": "FingerRings"
+    },
+    {
+      "label": "Bangle",
+      "product": "Bangles"
+    },
+    {
+      "label": "Necklace",
+      "product": "Neckwear"
+    },
+    {
+      "label": "Chain",
+      "product": "Chains"
+    },
+    {
+      "label": "Pendant",
+      "product": "Pendants"
+    },
+    {
+      "label": "Mangalsutra",
+      "product": "Mangalsutra"
+    },
+    {
+      "label": "Gold coin",
+      "product": "GoldCoin"
+    },
+    {
+      "label": "Bracelet",
+      "product": "Bracelets"
+    },
+    {
+      "label": "Nose pin",
+      "product": "Nosepins"
+    }
+  ],
+  "class_of_output": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "source": "YOLO-World zero-shot (not yet trained on Indriya photos)"
+}

@@ -11766,7 +11766,7 @@ $/model.22/m.0/cv3/conv/Conv_output_0
 onnx.inferonnxruntime.quantr¿
 description¯Ultralytics YOLOe-11m-seg model trained on {'train': {'yolo_data': ['Objects365v1.yaml'], 'grounding_data': [{'img_path': '../datasets/flickr/full_images/', 'json_file': '../datasets/flickr/annotations/final_flickr_separateGT_train_segm.json'}, {'img_path': '../datasets/mixed_grounding/gqa/images', 'json_file': '../datasets/mixed_grounding/annotations/final_mixed_train_no_coco_segm.json'}]}, 'val': {'yolo_data': ['lvis.yaml']}}r
 authorUltralyticsr(
-date 2026-11-17T15:01:52.763737+05:30r
+date 2026-11-17T15:15:23.136969+05:30r
 version8.4.211r=
 license2AGPL-3.0 License (https://ultralytics.com/license)r$
 docshttps://docs.ultralytics.comr

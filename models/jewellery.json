@@ -69,5 +69,6 @@
     10,
     10
   ],
-  "source": "YOLOE zero-shot yoloe-11m-seg (not yet trained on Indriya photos), 8-bit"
+  "source": "YOLOE zero-shot yoloe-11m-seg (not yet trained on Indriya photos), 8-bit",
+  "gpu_model": "jewellery.gpu.onnx"
 }

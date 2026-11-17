@@ -69,5 +69,5 @@
     10,
     10
   ],
-  "source": "YOLO-World zero-shot (not yet trained on Indriya photos)"
+  "source": "YOLOE zero-shot yoloe-11m-seg (not yet trained on Indriya photos), 8-bit"
 }

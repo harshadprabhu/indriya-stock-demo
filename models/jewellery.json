@@ -40,6 +40,10 @@
     {
       "label": "Nose pin",
       "product": "Nosepins"
+    },
+    {
+      "label": "Jewellery",
+      "product": ""
     }
   ],
   "class_of_output": [
@@ -52,6 +56,7 @@
     2,
     2,
     2,
+    2,
     3,
     3,
     3,
@@ -60,7 +65,9 @@
     6,
     7,
     8,
-    9
+    9,
+    10,
+    10
   ],
   "source": "YOLO-World zero-shot (not yet trained on Indriya photos)"
 }
